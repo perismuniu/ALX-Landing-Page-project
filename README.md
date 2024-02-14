@@ -2,6 +2,9 @@
 
 The Portfolio Project landing page is a webpage that presents information about the project without requiring the visitor to signup, login, or even use the application. It is possible that the Landing Page is also the main webpage for the project.
 
+Site used to deploy project: Netlify
+Deployment link: https://cerulean-moonbeam-6324d6.netlify.app/
+
 **Tasks**
 
 0. Share link to landing page and deployed app or video demo.
