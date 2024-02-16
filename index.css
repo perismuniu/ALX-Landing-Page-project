@@ -1,25 +1,17 @@
-
-/*https://coolors.co/1b1b3a-693668-a74482-f84aa7-ff3562*
-https://coolors.co/0091ad-6efafb-fff4e4-f7e8a4-ff57bb/
-https://coolors.co/26547c-ef476f-ffd166-06d6a0-fffcf9
-https://coolors.co/palette/90f1ef-ffd6e0-ffef9f-c1fba4-7bf1a8
-https://coolors.co/palette/90f1ef-ffd6e0-ffef9f-c1fba4-7bf1a8
-*/
-
-/*.container {
-    margin: 0;
-}*/
+/* Reset default anchor styles and apply custom styles */
 a, a:hover, a:focus, a:active {
     text-decoration: none;
     color: inherit;
 }
 
+/* Base styles for the body */
 body {
     font-family: "Montserrat", sans-serif;
     font-size: medium;
     background-color: lightyellow;
 }
 
+/* Styles for the header section */
 .header {
     margin-left: 75px;
     display: flex;
@@ -27,6 +19,7 @@ body {
     justify-content:space-between;
 }
 
+/* Styles for buttons in the header */
 .header button {
     padding: 15px 20px;
     margin: 20px 20px;
@@ -38,37 +31,43 @@ body {
     font-weight: bold;
 }
 
+/* Hover effect for buttons */
 button:hover {
     color: white;
 }
 
+/* Styles for the main heading in the header */
 .header h1 {
     color:#7BF1A8;
 }
 
+/* Styles for navigation links in the header */
 .header h2 {
     padding: 5px 40px 0px 40px;
     color: black;
     text-decoration: none;
 }
 
+/* Styles for the introduction section */
 .intro-section {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     margin-left: 0px;
     margin-right: 0px;
-
 }
 
+/* Styles for the introduction content */
 .introduction { 
     margin-left: 75px;
 }
 
+/* Styles for the main heading in the introduction */
 .introduction h1 {
     margin-top: 150px;
 }
 
+/* Styles for the "Get started" button in the introduction */
 .introduction button {
     padding: 15px 50px;
     margin: 40px 5px;
@@ -80,6 +79,7 @@ button:hover {
     font-weight: bold;
 }
 
+/* Styles for the introduction image */
 #intro-image {
     width: 700px;
     height:500px;
@@ -87,6 +87,7 @@ button:hover {
     border-radius: 10px;
 }
 
+/* Styles for the features section */
 .feature {
     display: flex;
     margin-left: 75px;
@@ -94,6 +95,7 @@ button:hover {
     
 }
 
+/* Styles for individual feature alignment */
 .feature-alignment {
     margin: 100px 50px;
     display: flex;
@@ -104,36 +106,43 @@ button:hover {
     margin-right: auto;
 }
 
+/* Styles for feature images */
 .features-images {
     width: 170px;
     height: 170px;
     border-radius: 50%;
 }
 
+/* Styles for feature descriptions */
 .features-description {
     display: flex;
     flex-direction: column;
 }
 
+/* Styles for the about section */
 .about {
     margin: 20px 75px;
     text-align:start;
 }
 
+/* Styles for the contact section */
 #contact {
     margin-left: 75px;
     margin-top: 40px;
 }
 
+/* Styles for social media icons */
 .logos img {
     width: 30px;
     height: 30px;
 }
 
+/* Styles for social media links */
 .logos a {
     color: black;
 }
 
+/* Styles for arranging social media icons and links */
 .contact-arrangement {
     display: flex;
     flex-direction: row;
