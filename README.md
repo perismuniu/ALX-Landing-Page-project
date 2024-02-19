@@ -1,45 +1,45 @@
-**Build your portfolio project (Week 3): Project Landing Page**
+**KERR Fashion Landing Page**
 
-The Portfolio Project landing page is a webpage that presents information about the project without requiring the visitor to signup, login, or even use the application. It is possible that the Landing Page is also the main webpage for the project.
+**Introduction**
 
-Site used to deploy project: Netlify
-Deployment link: https://cerulean-moonbeam-6324d6.netlify.app/
+Welcome to the KERR Fashion Landing Page repository! This project is a landing page for KERR Fashion, a fictional fashion brand, designed to showcase its features, information about the company, and contact details. You can visit the deployed site here.
 
-**Tasks**
+For a detailed overview of the project and the development process, check out the final project blog article here.
 
-0. Share link to landing page and deployed app or video demo.
+**Authors:**
 
-Share two links here:
+Peris Muniu
 
-   * Landing page URL
-   * Deployed project page URL, or link to a Youtube video of a demo of the app
+**Installation**
 
-1. Intro section
+* Clone the repository:
 
-On page load, your project is introduced with:
+bash
+git clone https://github.com/perismuniu/ALX-Landing-Page-project.git
 
-   * A large cover image
-   * The name of your project
-   * A one-line phrase and/or description of your project
-   * Navigation elements in the header bar to access each section you’ve defined (please have at least 2)
-   * A labeled button that navigates to the deployed project application.
+* Navigate to the project directory:
 
-2. Feature Section
+bash
+cd ALX-Landing-Page-project
 
-Somewhere following the intro section, include a section where the landing page highlights 3 key features.
+* Open the index.html file in your web browser.
 
-For each feature include:
+**Usage**
 
-   * An image, screenshot, gif, or video
-   * The name of the feature
-   * A description of the feature
+* Navigate through the different sections of the landing page using the navigation links.
+* Click on the "Get started" button in the Introduction section to explore further.
+* Access the social media links in the Contact Us section to connect with the brand on various platforms.
 
-3. About Section
 
-Somewhere following the feature section, include an About section.
+**Contributing**
+Contributions to the project are welcome. If you'd like to contribute, please follow these steps:
 
-This about section needs to include:
+* Fork the repository.
+* Create a new branch (git checkout -b feature/improvement).
+* Make your changes.
+* Commit your changes (git commit -am 'Add new feature').
+* Push to the branch (git push origin feature/improvement).
+* Create a new Pull Request.
 
-   * A description of what inspired the project. Make this is a personal story, and not “because Holberton required this project”. It is reasonable to  include the timeline, and feel free to also mention this is a Portfolio Project for Holberton School with a link.
-   * Links to each team member’s LinkedIn, github and Twitter profile.
-   * A link to the github repository for the project.
+**Licensing**
+This project is licensed under the MIT License.
