@@ -26,6 +26,10 @@
 
 * Open the index.html file in your web browser.
 
+**Deployment link**
+
+https://cerulean-moonbeam-6324d6.netlify.app/
+
 **Usage**
 
     * Navigate through the different sections of the landing page using the navigation links.
